@@ -10,7 +10,6 @@ Pipeline de dados em streaming usando Kafka e Spark Structured Streaming para co
 
 **Estudantes:**
 
-* Guilherme Moura Nunes
 * Morgana Araújo dos Santos
 * Vicente de Paula Ferreira Filho
 * Vitor Brava Estevam
